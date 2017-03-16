@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Patrol Sensor
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+ESP8266WiFi	KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StratchPatrolSensor	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readLeftLine	KEYWORD2
+readMiddleLine	KEYWORD2
+readRightLine	KEYWORD2
+modifyAddr	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+patrol	LITERAL1
+mySingleBus	LITERAL1
+data	LITERAL1
+DISCOVERY_SINGLE_BUS_PIN	LITERAL1
